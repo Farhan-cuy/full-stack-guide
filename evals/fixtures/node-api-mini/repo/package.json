@@ -1,0 +1,8 @@
+{
+  "name": "node-api-mini",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
